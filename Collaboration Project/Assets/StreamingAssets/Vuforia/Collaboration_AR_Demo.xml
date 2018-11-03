@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Playing_Cards_Jack_Hearts" size="0.006000 0.009300" />
+    <ImageTarget name="Playing_Cards_Queen_Clubs" size="0.006000 0.009300" />
+  </Tracking>
+</QCARConfig>
