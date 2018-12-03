@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
   <Tracking>
+    <ImageTarget name="Collab_Image_9" size="0.210000 0.297048" />
+    <ImageTarget name="Collab_Image_3" size="0.210000 0.297048" />
+    <ImageTarget name="Collab_Image_8" size="0.210000 0.297048" />
+    <ImageTarget name="Collab_Image_7" size="0.210000 0.297048" />
+    <ImageTarget name="Collab_Image_6" size="0.210000 0.297048" />
+    <ImageTarget name="Collab_Image_5" size="0.210000 0.297048" />
+    <ImageTarget name="Collab_Image_4" size="0.210000 0.297048" />
+    <ImageTarget name="Collab_Image_2" size="0.210000 0.297048" />
+    <ImageTarget name="Collab_Image_1" size="0.210000 0.297048" />
     <ImageTarget name="Playing_Cards_Jack_Hearts" size="0.006000 0.009300" />
     <ImageTarget name="Playing_Cards_Queen_Clubs" size="0.006000 0.009300" />
   </Tracking>
